@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'dart:math';
 
+
 void main() {
   runApp(const MyApp());
 }
@@ -38,7 +39,7 @@ class _iceState extends State<ice> {
             ),
           ),
         ),
-        backgroundColor: Colors.black,
+        backgroundColor: Colors.blue,
         body: Row(
           mainAxisAlignment: MainAxisAlignment.center,
           crossAxisAlignment: CrossAxisAlignment.center,
